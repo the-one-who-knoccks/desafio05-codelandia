@@ -5,8 +5,8 @@ display: flex;
 padding: 5px;
 flex-wrap: wrap;
 position: absolute;
-left: 1070px;
-top: 41px;
+left: 1200px;
+top: 45px;
 
 
 div {
