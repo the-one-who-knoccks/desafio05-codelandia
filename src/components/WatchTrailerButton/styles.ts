@@ -6,16 +6,15 @@ export const Container = styled.button`
   background: transparent;
   border: #658e76 solid;
 
-
-  border-radius: 0 50px 0px 50px;
   color: #fff;
   font-family: 'Poppins';
   font-size: 14px;
 
 
-  position: absolute;
+  position: relative;
+  transform: skew(-20deg);
   top: 525px;
-  left: 405px;
+  left: 205px;
   cursor: pointer;
   text-transform: uppercase;
   transition: filter 0.2s;

@@ -6,13 +6,14 @@ export const Container = styled.button`
   background: #658e76;
   border: none;
 
-  border-radius: 0 50px 0px 50px;
+  
   color: #fff;
   font-family: 'Poppins';
   font-size: 14px;
 
 
-  position: absolute;
+  position: relative;
+  transform: skew(-20deg);
   top: 525px;
   left: 155px;
   cursor: pointer;
